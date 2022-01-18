@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+input {
+    background-color: #121212;
+    color: #ffffff;
+    border: none;
+    position: fixed;
+    width: 100%;
+    outline: none;
+    bottom: 1vw;
+}
+
+#terminal-text {
+    color: #ffffff;
+    background-color: #121212;
+}
